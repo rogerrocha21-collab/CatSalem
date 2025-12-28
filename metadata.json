@@ -1,0 +1,5 @@
+{
+  "name": "Sorcerer's Sigil",
+  "description": "A mobile-first gesture defense game where you play as a sorcerer casting spells by drawing symbols to banish incoming spirits.",
+  "requestFramePermissions": []
+}
